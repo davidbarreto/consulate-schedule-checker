@@ -3,3 +3,6 @@ Script to frequently check if there is a spot available for an in-person appoint
 
 Dependencies:
 - Selenium 4.1.0
+
+For the Alerts
+- playsound
