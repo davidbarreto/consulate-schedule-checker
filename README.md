@@ -1,8 +1,8 @@
 # ConsulateScheduleChecker
 
-> This software aims to help all people that are trying a spot on the Brazilian consulate by the e-consular system and is not finding anyone.
-> I personally spent more than 2 months and didn't manage to find any spot on the consulate schedule, mainly for the 'CNH' subject.
-> I hope that using this simple script you can schedule your appointment as soon as possible!
+This software aims to help all people that are trying a spot on the Brazilian consulate by the e-consular system and is not finding anyone.
+I personally spent more than 2 months and didn't manage to find any spot on the consulate schedule, mainly for the 'CNH' subject.
+I hope that using this simple script you can schedule your appointment as soon as possible!
 
 The script frequently checks if there is a spot available for an in-person appointment at the Brazilian consulate website (e-consular).
 The login on e-consular is manual and the script will alert you when it is needed. Just login into the e-consular, and let the script check the available spots.
