@@ -98,4 +98,10 @@ pip install <module>
 ### player alert:
 - playsound 1.2.2
 
+To install those versions, run the following commands:
+```
+pip install selenium==4.1.0
+pip install playsound==1.2.2
+```
+
 If you found a bug or have suggestions, please contact me
